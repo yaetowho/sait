@@ -1,0 +1,366 @@
+.first{
+    width: 100%;
+    height: 100vh;
+    background-image: url("./images/1.png");
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+}
+body{
+    margin: 0;
+}
+.first-text{
+    width: 100%;
+    height: 250px;
+    text-align: center;
+    background: rgba(255, 255, 255, 0.6);
+}
+.second{
+    width: 100%;
+    height: 100vh;
+    background-image: url("./images/2.png");
+    background-size: cover;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+.second>h2{
+    width: 100%;
+    height: 100px;
+    margin: 0;
+    background: #180A6C;
+
+    font-family: Alumni Sans;
+font-weight: normal;
+font-size: 90px;
+line-height: 100px;
+color: #FFFFFF;
+text-align: center;
+}
+.second-text{
+    width: 100%;
+    height: 240px;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.46);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.info-text{
+    margin: 0;
+    width: 90%;
+    font-size: 48px;
+    color: #FFFFFF;
+    font-family: 'Philosopher', sans-serif;
+font-weight: normal;
+line-height: 54px;
+}
+.third{
+    width: 100%;
+    height: 100vh;
+    background-image: url(./images/4.png);
+    background-size: cover;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.third>h2{
+    width: 100%;
+height: 100px;
+margin: 0;
+background: #180A6C;
+
+
+    font-family: Alumni Sans;
+font-weight: normal;
+font-size: 90px;
+line-height: 100px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.third-text{
+    width: 100%;
+    height: 281px;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.46);
+    margin: 0;
+
+}
+.text-third{
+    margin: 0;
+    width: 100%;
+    height: 275px;
+    font-size: 48px;
+    color: #FFFFFF;
+    font-family: 'Philosopher', sans-serif;
+}
+.fourth{
+    width: 100%;
+    height: 100vh;
+    background-image: url(./images/5.png);
+    background-size: cover;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+.fourth>h2{
+        width: 100%;
+    height: 100px;
+    margin: 0;
+    background: #424226;
+    
+    
+        font-family: Alumni Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 90px;
+    line-height: 100px;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+.fourth-text{
+    width: 100%;
+    height: 340px;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.46);
+
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.text-fourth{
+    margin: 0;
+    width: 100%;
+    height: 340px;
+    color: #FFF7F7;
+
+font-family: 'Philosopher', sans-serif;
+font-size: 48px;
+line-height: 54px;
+}
+.fifth{
+    width: 100%;
+    height: 100vh;
+    background-image: url(./images/6.png);
+    background-size: cover;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.fifth>h2{
+    width: 100%;
+    height: 100px;
+    margin: 0;
+    background: #424226;
+    
+    
+        font-family: Alumni Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 90px;
+    line-height: 100px;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+.sixth{
+    width: 100%;
+    height: 100vh;
+    background-image: url(./images/7.png);
+    background-size: cover;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+}
+.sixth>h2{
+    width: 100%;
+    height: 100px;
+    margin: 0;
+    background: #424226;
+    
+    
+        font-family: Alumni Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 90px;
+    line-height: 100px;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+.sixth-text{
+    width: 100%;
+    height: 300px;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.46);
+
+}
+.text-sixth{
+    margin: 0;
+    width: 100%;
+    height: 340px;
+    color: #FFF7F7;
+
+font-family: 'Philosopher', sans-serif;
+font-size: 48px;
+line-height: 54px;
+}
+.seventh{
+    width: 100%;
+    height: 98vh;
+    background-image: url(./image\ 11.png);
+    background-size: cover;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+}
+.seventh>h2{
+    width: 100%;
+    height: 100px;
+    margin: 0;
+    background: #424226;
+
+    font-family: Alumni Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 90px;
+    line-height: 100px;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+.seventh-block{
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+}
+.seventh-firstimage{
+
+    width: 600px;
+    height: 600px;
+    background-image: url(./images/image\ 12\ \(1\)_cut-photo.png);
+
+}
+.seventh-secondimage{
+    width: 600px;
+    height: 600px;
+    background-image: url(./images/image\ 13\ \(1\)_cut-photo.png);
+}
+.seventh-thirdimage{
+    width: 600px;
+    height: 600px;
+    background-image: url(./images/image\ 14_cut-photo.png);
+}
+.eighth{
+    width: 100%;
+    height: 2562px;
+    background-image: url(./images/karta.png);
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+}
+.eighthh2{
+    width: 100%;
+    height: 100px;
+    margin: 0;
+    background: #424226;
+
+    font-family: Alumni Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 90px;
+    line-height: 100px;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+.eighth-text{
+    margin: 0;
+    width: 100%;
+    height: 220px;
+    background: rgba(0, 0, 0, 0.45);
+
+    text-align: center;
+}
+.points{
+    width: 100%;
+    height: calc(100% - 220px);
+    position: relative;
+}
+.map-point{
+    position: relative;
+    width: 25px;
+    height: 25px;
+    background-color: #ffffff;
+    border-radius: 25px;
+}
+#point1{
+    top: 147px;
+    left: 401px;
+}
+#point2{
+    top: 831px;
+    left: 75px;
+}
+#point3{
+    top: 1463px;
+    left: 415px;
+}
+#point4{
+    top: -33px;
+    left: 484px;
+}
+#point5{
+    top: 2167px;
+    left: 1073px;
+}
+#point6{
+    top: 876px;
+    left: 1334px;
+}
+#point7{
+    top: 891px;
+    left: 1450px;
+}
+.text-eighth{
+    margin: 0px;
+    width: 100%;
+    height: 175px;
+    color: #FFF7F7;
+
+    font-family: 'Philosopher', sans-serif;
+    font-size: 48px;
+    line-height: 54px;
+}
+#map-info{
+    position: absolute;
+    display: none;
+    width: 400px;
+    height: 400px;
+    background-color: #000000c7;
+    color: white;
+    font-family: Philosopher;
+    font-size: 25px;
+    line-height: 23px;
+    text-align: center;
+}
